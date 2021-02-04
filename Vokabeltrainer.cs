@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        05                                     
  * Programmname:    Vocabulary                                  
- * Autor:           Michael Bucek                               
+ * Autor:           karlof002                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Der Benutzer wird aufgefordert, ein vorgegebenes deutsches Wort ins
